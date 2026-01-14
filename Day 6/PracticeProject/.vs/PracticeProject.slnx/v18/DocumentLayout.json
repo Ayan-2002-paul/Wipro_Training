@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ayan2\\OneDrive\\Documents\\Coding\\Wipro Training\\Day 6\\PracticeProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB700C40-73B9-425F-98C9-687D8A60E3D4}|PracticeProject\\PracticeProject.csproj|c:\\users\\ayan2\\onedrive\\documents\\coding\\wipro training\\day 6\\practiceproject\\practiceproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB700C40-73B9-425F-98C9-687D8A60E3D4}|PracticeProject\\PracticeProject.csproj|solutionrelative:practiceproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ayan2\\OneDrive\\Documents\\Coding\\Wipro Training\\Day 6\\PracticeProject\\PracticeProject\\Program.cs",
+              "RelativeDocumentMoniker": "PracticeProject\\Program.cs",
+              "ToolTip": "C:\\Users\\ayan2\\OneDrive\\Documents\\Coding\\Wipro Training\\Day 6\\PracticeProject\\PracticeProject\\Program.cs",
+              "RelativeToolTip": "PracticeProject\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAA/wDsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T10:24:16.224Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

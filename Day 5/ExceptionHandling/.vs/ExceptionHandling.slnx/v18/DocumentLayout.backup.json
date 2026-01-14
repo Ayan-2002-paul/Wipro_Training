@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ayan2\\OneDrive\\Documents\\Coding\\Wipro Training\\Day 5\\ExceptionHandling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF442BC-9B3B-4C7E-838B-F36D7DB3662D}|ExceptionHandling\\ExceptionHandling.csproj|c:\\users\\ayan2\\onedrive\\documents\\coding\\wipro training\\day 5\\exceptionhandling\\exceptionhandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CF442BC-9B3B-4C7E-838B-F36D7DB3662D}|ExceptionHandling\\ExceptionHandling.csproj|solutionrelative:exceptionhandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ayan2\\OneDrive\\Documents\\Coding\\Wipro Training\\Day 5\\ExceptionHandling\\ExceptionHandling\\Program.cs",
+              "RelativeDocumentMoniker": "ExceptionHandling\\Program.cs",
+              "ToolTip": "C:\\Users\\ayan2\\OneDrive\\Documents\\Coding\\Wipro Training\\Day 5\\ExceptionHandling\\ExceptionHandling\\Program.cs*",
+              "RelativeToolTip": "ExceptionHandling\\Program.cs*",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T10:18:14.144Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

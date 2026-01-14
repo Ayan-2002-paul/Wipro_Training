@@ -1,0 +1,14 @@
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 4\EnumStruct\EnumStruct\bin\Debug\net10.0\EnumStruct.exe
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 4\EnumStruct\EnumStruct\bin\Debug\net10.0\EnumStruct.deps.json
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 4\EnumStruct\EnumStruct\bin\Debug\net10.0\EnumStruct.runtimeconfig.json
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 4\EnumStruct\EnumStruct\bin\Debug\net10.0\EnumStruct.dll
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 4\EnumStruct\EnumStruct\bin\Debug\net10.0\EnumStruct.pdb
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 4\EnumStruct\EnumStruct\obj\Debug\net10.0\EnumStruct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 4\EnumStruct\EnumStruct\obj\Debug\net10.0\EnumStruct.AssemblyInfoInputs.cache
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 4\EnumStruct\EnumStruct\obj\Debug\net10.0\EnumStruct.AssemblyInfo.cs
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 4\EnumStruct\EnumStruct\obj\Debug\net10.0\EnumStruct.csproj.CoreCompileInputs.cache
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 4\EnumStruct\EnumStruct\obj\Debug\net10.0\EnumStruct.dll
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 4\EnumStruct\EnumStruct\obj\Debug\net10.0\refint\EnumStruct.dll
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 4\EnumStruct\EnumStruct\obj\Debug\net10.0\EnumStruct.pdb
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 4\EnumStruct\EnumStruct\obj\Debug\net10.0\EnumStruct.genruntimeconfig.cache
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 4\EnumStruct\EnumStruct\obj\Debug\net10.0\ref\EnumStruct.dll

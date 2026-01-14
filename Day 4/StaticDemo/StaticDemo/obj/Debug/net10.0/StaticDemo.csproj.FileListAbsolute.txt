@@ -1,0 +1,14 @@
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 4\StaticDemo\StaticDemo\bin\Debug\net10.0\StaticDemo.exe
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 4\StaticDemo\StaticDemo\bin\Debug\net10.0\StaticDemo.deps.json
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 4\StaticDemo\StaticDemo\bin\Debug\net10.0\StaticDemo.runtimeconfig.json
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 4\StaticDemo\StaticDemo\bin\Debug\net10.0\StaticDemo.dll
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 4\StaticDemo\StaticDemo\bin\Debug\net10.0\StaticDemo.pdb
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 4\StaticDemo\StaticDemo\obj\Debug\net10.0\StaticDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 4\StaticDemo\StaticDemo\obj\Debug\net10.0\StaticDemo.AssemblyInfoInputs.cache
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 4\StaticDemo\StaticDemo\obj\Debug\net10.0\StaticDemo.AssemblyInfo.cs
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 4\StaticDemo\StaticDemo\obj\Debug\net10.0\StaticDemo.csproj.CoreCompileInputs.cache
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 4\StaticDemo\StaticDemo\obj\Debug\net10.0\StaticDemo.dll
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 4\StaticDemo\StaticDemo\obj\Debug\net10.0\refint\StaticDemo.dll
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 4\StaticDemo\StaticDemo\obj\Debug\net10.0\StaticDemo.pdb
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 4\StaticDemo\StaticDemo\obj\Debug\net10.0\StaticDemo.genruntimeconfig.cache
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 4\StaticDemo\StaticDemo\obj\Debug\net10.0\ref\StaticDemo.dll

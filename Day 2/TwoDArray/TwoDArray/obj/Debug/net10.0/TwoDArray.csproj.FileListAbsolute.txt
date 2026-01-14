@@ -1,0 +1,14 @@
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 2\TwoDArray\TwoDArray\bin\Debug\net10.0\TwoDArray.exe
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 2\TwoDArray\TwoDArray\bin\Debug\net10.0\TwoDArray.deps.json
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 2\TwoDArray\TwoDArray\bin\Debug\net10.0\TwoDArray.runtimeconfig.json
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 2\TwoDArray\TwoDArray\bin\Debug\net10.0\TwoDArray.dll
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 2\TwoDArray\TwoDArray\bin\Debug\net10.0\TwoDArray.pdb
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 2\TwoDArray\TwoDArray\obj\Debug\net10.0\TwoDArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 2\TwoDArray\TwoDArray\obj\Debug\net10.0\TwoDArray.AssemblyInfoInputs.cache
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 2\TwoDArray\TwoDArray\obj\Debug\net10.0\TwoDArray.AssemblyInfo.cs
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 2\TwoDArray\TwoDArray\obj\Debug\net10.0\TwoDArray.csproj.CoreCompileInputs.cache
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 2\TwoDArray\TwoDArray\obj\Debug\net10.0\TwoDArray.dll
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 2\TwoDArray\TwoDArray\obj\Debug\net10.0\refint\TwoDArray.dll
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 2\TwoDArray\TwoDArray\obj\Debug\net10.0\TwoDArray.pdb
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 2\TwoDArray\TwoDArray\obj\Debug\net10.0\TwoDArray.genruntimeconfig.cache
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 2\TwoDArray\TwoDArray\obj\Debug\net10.0\ref\TwoDArray.dll

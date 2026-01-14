@@ -1,0 +1,14 @@
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 2\CollectionsDemo\CollectionsDemo\obj\Debug\net10.0\CollectionsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 2\CollectionsDemo\CollectionsDemo\obj\Debug\net10.0\CollectionsDemo.AssemblyInfoInputs.cache
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 2\CollectionsDemo\CollectionsDemo\obj\Debug\net10.0\CollectionsDemo.AssemblyInfo.cs
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 2\CollectionsDemo\CollectionsDemo\obj\Debug\net10.0\CollectionsDemo.csproj.CoreCompileInputs.cache
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 2\CollectionsDemo\CollectionsDemo\bin\Debug\net10.0\CollectionsDemo.exe
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 2\CollectionsDemo\CollectionsDemo\bin\Debug\net10.0\CollectionsDemo.deps.json
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 2\CollectionsDemo\CollectionsDemo\bin\Debug\net10.0\CollectionsDemo.runtimeconfig.json
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 2\CollectionsDemo\CollectionsDemo\bin\Debug\net10.0\CollectionsDemo.dll
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 2\CollectionsDemo\CollectionsDemo\bin\Debug\net10.0\CollectionsDemo.pdb
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 2\CollectionsDemo\CollectionsDemo\obj\Debug\net10.0\CollectionsDemo.dll
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 2\CollectionsDemo\CollectionsDemo\obj\Debug\net10.0\refint\CollectionsDemo.dll
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 2\CollectionsDemo\CollectionsDemo\obj\Debug\net10.0\CollectionsDemo.pdb
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 2\CollectionsDemo\CollectionsDemo\obj\Debug\net10.0\CollectionsDemo.genruntimeconfig.cache
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 2\CollectionsDemo\CollectionsDemo\obj\Debug\net10.0\ref\CollectionsDemo.dll

@@ -1,0 +1,14 @@
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 1\BoxingUnboxing\BoxingUnboxing\bin\Debug\net10.0\BoxingUnboxing.exe
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 1\BoxingUnboxing\BoxingUnboxing\bin\Debug\net10.0\BoxingUnboxing.deps.json
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 1\BoxingUnboxing\BoxingUnboxing\bin\Debug\net10.0\BoxingUnboxing.runtimeconfig.json
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 1\BoxingUnboxing\BoxingUnboxing\bin\Debug\net10.0\BoxingUnboxing.dll
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 1\BoxingUnboxing\BoxingUnboxing\bin\Debug\net10.0\BoxingUnboxing.pdb
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 1\BoxingUnboxing\BoxingUnboxing\obj\Debug\net10.0\BoxingUnboxing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 1\BoxingUnboxing\BoxingUnboxing\obj\Debug\net10.0\BoxingUnboxing.AssemblyInfoInputs.cache
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 1\BoxingUnboxing\BoxingUnboxing\obj\Debug\net10.0\BoxingUnboxing.AssemblyInfo.cs
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 1\BoxingUnboxing\BoxingUnboxing\obj\Debug\net10.0\BoxingUnboxing.csproj.CoreCompileInputs.cache
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 1\BoxingUnboxing\BoxingUnboxing\obj\Debug\net10.0\BoxingUnboxing.dll
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 1\BoxingUnboxing\BoxingUnboxing\obj\Debug\net10.0\refint\BoxingUnboxing.dll
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 1\BoxingUnboxing\BoxingUnboxing\obj\Debug\net10.0\BoxingUnboxing.pdb
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 1\BoxingUnboxing\BoxingUnboxing\obj\Debug\net10.0\BoxingUnboxing.genruntimeconfig.cache
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 1\BoxingUnboxing\BoxingUnboxing\obj\Debug\net10.0\ref\BoxingUnboxing.dll

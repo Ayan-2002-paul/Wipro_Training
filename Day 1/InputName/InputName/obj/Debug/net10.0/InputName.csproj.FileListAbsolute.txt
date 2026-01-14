@@ -1,0 +1,14 @@
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 1\InputName\InputName\bin\Debug\net10.0\InputName.exe
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 1\InputName\InputName\bin\Debug\net10.0\InputName.deps.json
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 1\InputName\InputName\bin\Debug\net10.0\InputName.runtimeconfig.json
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 1\InputName\InputName\bin\Debug\net10.0\InputName.dll
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 1\InputName\InputName\bin\Debug\net10.0\InputName.pdb
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 1\InputName\InputName\obj\Debug\net10.0\InputName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 1\InputName\InputName\obj\Debug\net10.0\InputName.AssemblyInfoInputs.cache
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 1\InputName\InputName\obj\Debug\net10.0\InputName.AssemblyInfo.cs
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 1\InputName\InputName\obj\Debug\net10.0\InputName.csproj.CoreCompileInputs.cache
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 1\InputName\InputName\obj\Debug\net10.0\InputName.dll
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 1\InputName\InputName\obj\Debug\net10.0\refint\InputName.dll
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 1\InputName\InputName\obj\Debug\net10.0\InputName.pdb
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 1\InputName\InputName\obj\Debug\net10.0\InputName.genruntimeconfig.cache
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 1\InputName\InputName\obj\Debug\net10.0\ref\InputName.dll

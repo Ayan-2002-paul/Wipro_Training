@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ayan2\\OneDrive\\Documents\\Coding\\Wipro Training\\Day 4\\StaticDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4709249F-484B-4DB8-AAB8-219A652EF8B9}|StaticDemo\\StaticDemo.csproj|c:\\users\\ayan2\\onedrive\\documents\\coding\\wipro training\\day 4\\staticdemo\\staticdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4709249F-484B-4DB8-AAB8-219A652EF8B9}|StaticDemo\\StaticDemo.csproj|solutionrelative:staticdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ayan2\\OneDrive\\Documents\\Coding\\Wipro Training\\Day 4\\StaticDemo\\StaticDemo\\Program.cs",
+              "RelativeDocumentMoniker": "StaticDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\ayan2\\OneDrive\\Documents\\Coding\\Wipro Training\\Day 4\\StaticDemo\\StaticDemo\\Program.cs*",
+              "RelativeToolTip": "StaticDemo\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T10:16:49.041Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

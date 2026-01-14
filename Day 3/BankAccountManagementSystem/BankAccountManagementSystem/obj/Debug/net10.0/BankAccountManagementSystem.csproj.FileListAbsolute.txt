@@ -1,0 +1,14 @@
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 3\BankAccountManagementSystem\BankAccountManagementSystem\obj\Debug\net10.0\BankAccountManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 3\BankAccountManagementSystem\BankAccountManagementSystem\obj\Debug\net10.0\BankAccountManagementSystem.AssemblyInfoInputs.cache
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 3\BankAccountManagementSystem\BankAccountManagementSystem\obj\Debug\net10.0\BankAccountManagementSystem.AssemblyInfo.cs
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 3\BankAccountManagementSystem\BankAccountManagementSystem\obj\Debug\net10.0\BankAccountManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 3\BankAccountManagementSystem\BankAccountManagementSystem\bin\Debug\net10.0\BankAccountManagementSystem.exe
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 3\BankAccountManagementSystem\BankAccountManagementSystem\bin\Debug\net10.0\BankAccountManagementSystem.deps.json
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 3\BankAccountManagementSystem\BankAccountManagementSystem\bin\Debug\net10.0\BankAccountManagementSystem.runtimeconfig.json
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 3\BankAccountManagementSystem\BankAccountManagementSystem\bin\Debug\net10.0\BankAccountManagementSystem.dll
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 3\BankAccountManagementSystem\BankAccountManagementSystem\bin\Debug\net10.0\BankAccountManagementSystem.pdb
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 3\BankAccountManagementSystem\BankAccountManagementSystem\obj\Debug\net10.0\BankAccountManagementSystem.dll
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 3\BankAccountManagementSystem\BankAccountManagementSystem\obj\Debug\net10.0\refint\BankAccountManagementSystem.dll
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 3\BankAccountManagementSystem\BankAccountManagementSystem\obj\Debug\net10.0\BankAccountManagementSystem.pdb
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 3\BankAccountManagementSystem\BankAccountManagementSystem\obj\Debug\net10.0\BankAccountManagementSystem.genruntimeconfig.cache
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 3\BankAccountManagementSystem\BankAccountManagementSystem\obj\Debug\net10.0\ref\BankAccountManagementSystem.dll

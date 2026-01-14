@@ -1,0 +1,14 @@
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 3\AbstractClassProducts\AbstractClassProducts\bin\Debug\net10.0\AbstractClassProducts.exe
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 3\AbstractClassProducts\AbstractClassProducts\bin\Debug\net10.0\AbstractClassProducts.deps.json
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 3\AbstractClassProducts\AbstractClassProducts\bin\Debug\net10.0\AbstractClassProducts.runtimeconfig.json
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 3\AbstractClassProducts\AbstractClassProducts\bin\Debug\net10.0\AbstractClassProducts.dll
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 3\AbstractClassProducts\AbstractClassProducts\bin\Debug\net10.0\AbstractClassProducts.pdb
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 3\AbstractClassProducts\AbstractClassProducts\obj\Debug\net10.0\AbstractClassProducts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 3\AbstractClassProducts\AbstractClassProducts\obj\Debug\net10.0\AbstractClassProducts.AssemblyInfoInputs.cache
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 3\AbstractClassProducts\AbstractClassProducts\obj\Debug\net10.0\AbstractClassProducts.AssemblyInfo.cs
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 3\AbstractClassProducts\AbstractClassProducts\obj\Debug\net10.0\AbstractClassProducts.csproj.CoreCompileInputs.cache
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 3\AbstractClassProducts\AbstractClassProducts\obj\Debug\net10.0\AbstractClassProducts.dll
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 3\AbstractClassProducts\AbstractClassProducts\obj\Debug\net10.0\refint\AbstractClassProducts.dll
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 3\AbstractClassProducts\AbstractClassProducts\obj\Debug\net10.0\AbstractClassProducts.pdb
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 3\AbstractClassProducts\AbstractClassProducts\obj\Debug\net10.0\AbstractClassProducts.genruntimeconfig.cache
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 3\AbstractClassProducts\AbstractClassProducts\obj\Debug\net10.0\ref\AbstractClassProducts.dll

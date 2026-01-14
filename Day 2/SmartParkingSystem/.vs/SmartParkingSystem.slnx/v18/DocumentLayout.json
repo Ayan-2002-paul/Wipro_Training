@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ayan2\\OneDrive\\Documents\\Coding\\Wipro Training\\Day 2\\SmartParkingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5D91A39-1164-45EC-972A-1E5319494A3E}|SmartParkingSystem\\SmartParkingSystem.csproj|c:\\users\\ayan2\\onedrive\\documents\\coding\\wipro training\\day 2\\smartparkingsystem\\smartparkingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5D91A39-1164-45EC-972A-1E5319494A3E}|SmartParkingSystem\\SmartParkingSystem.csproj|solutionrelative:smartparkingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5D91A39-1164-45EC-972A-1E5319494A3E}|SmartParkingSystem\\SmartParkingSystem.csproj|c:\\users\\ayan2\\onedrive\\documents\\coding\\wipro training\\day 2\\smartparkingsystem\\smartparkingsystem\\carparking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5D91A39-1164-45EC-972A-1E5319494A3E}|SmartParkingSystem\\SmartParkingSystem.csproj|solutionrelative:smartparkingsystem\\carparking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarParking.cs",
+              "DocumentMoniker": "C:\\Users\\ayan2\\OneDrive\\Documents\\Coding\\Wipro Training\\Day 2\\SmartParkingSystem\\SmartParkingSystem\\CarParking.cs",
+              "RelativeDocumentMoniker": "SmartParkingSystem\\CarParking.cs",
+              "ToolTip": "C:\\Users\\ayan2\\OneDrive\\Documents\\Coding\\Wipro Training\\Day 2\\SmartParkingSystem\\SmartParkingSystem\\CarParking.cs",
+              "RelativeToolTip": "SmartParkingSystem\\CarParking.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAkwGUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T07:01:47.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ayan2\\OneDrive\\Documents\\Coding\\Wipro Training\\Day 2\\SmartParkingSystem\\SmartParkingSystem\\Program.cs",
+              "RelativeDocumentMoniker": "SmartParkingSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\ayan2\\OneDrive\\Documents\\Coding\\Wipro Training\\Day 2\\SmartParkingSystem\\SmartParkingSystem\\Program.cs",
+              "RelativeToolTip": "SmartParkingSystem\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAowDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T07:00:31.465Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

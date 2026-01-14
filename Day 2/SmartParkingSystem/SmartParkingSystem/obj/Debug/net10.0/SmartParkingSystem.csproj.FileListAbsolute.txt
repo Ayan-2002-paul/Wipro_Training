@@ -1,0 +1,14 @@
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 2\SmartParkingSystem\SmartParkingSystem\bin\Debug\net10.0\SmartParkingSystem.exe
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 2\SmartParkingSystem\SmartParkingSystem\bin\Debug\net10.0\SmartParkingSystem.deps.json
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 2\SmartParkingSystem\SmartParkingSystem\bin\Debug\net10.0\SmartParkingSystem.runtimeconfig.json
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 2\SmartParkingSystem\SmartParkingSystem\bin\Debug\net10.0\SmartParkingSystem.dll
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 2\SmartParkingSystem\SmartParkingSystem\bin\Debug\net10.0\SmartParkingSystem.pdb
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 2\SmartParkingSystem\SmartParkingSystem\obj\Debug\net10.0\SmartParkingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 2\SmartParkingSystem\SmartParkingSystem\obj\Debug\net10.0\SmartParkingSystem.AssemblyInfoInputs.cache
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 2\SmartParkingSystem\SmartParkingSystem\obj\Debug\net10.0\SmartParkingSystem.AssemblyInfo.cs
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 2\SmartParkingSystem\SmartParkingSystem\obj\Debug\net10.0\SmartParkingSystem.csproj.CoreCompileInputs.cache
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 2\SmartParkingSystem\SmartParkingSystem\obj\Debug\net10.0\SmartParkingSystem.dll
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 2\SmartParkingSystem\SmartParkingSystem\obj\Debug\net10.0\refint\SmartParkingSystem.dll
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 2\SmartParkingSystem\SmartParkingSystem\obj\Debug\net10.0\SmartParkingSystem.pdb
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 2\SmartParkingSystem\SmartParkingSystem\obj\Debug\net10.0\SmartParkingSystem.genruntimeconfig.cache
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 2\SmartParkingSystem\SmartParkingSystem\obj\Debug\net10.0\ref\SmartParkingSystem.dll
