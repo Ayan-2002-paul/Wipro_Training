@@ -1,0 +1,15 @@
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 6\LambdaDemo\LambdaDemo\bin\Debug\net10.0\LambdaDemo.exe
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 6\LambdaDemo\LambdaDemo\bin\Debug\net10.0\LambdaDemo.deps.json
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 6\LambdaDemo\LambdaDemo\bin\Debug\net10.0\LambdaDemo.runtimeconfig.json
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 6\LambdaDemo\LambdaDemo\bin\Debug\net10.0\LambdaDemo.dll
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 6\LambdaDemo\LambdaDemo\bin\Debug\net10.0\LambdaDemo.pdb
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 6\LambdaDemo\LambdaDemo\obj\Debug\net10.0\LambdaDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 6\LambdaDemo\LambdaDemo\obj\Debug\net10.0\LambdaDemo.AssemblyInfoInputs.cache
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 6\LambdaDemo\LambdaDemo\obj\Debug\net10.0\LambdaDemo.AssemblyInfo.cs
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 6\LambdaDemo\LambdaDemo\obj\Debug\net10.0\LambdaDemo.csproj.CoreCompileInputs.cache
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 6\LambdaDemo\LambdaDemo\obj\Debug\net10.0\LambdaDemo.sourcelink.json
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 6\LambdaDemo\LambdaDemo\obj\Debug\net10.0\LambdaDemo.dll
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 6\LambdaDemo\LambdaDemo\obj\Debug\net10.0\refint\LambdaDemo.dll
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 6\LambdaDemo\LambdaDemo\obj\Debug\net10.0\LambdaDemo.pdb
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 6\LambdaDemo\LambdaDemo\obj\Debug\net10.0\LambdaDemo.genruntimeconfig.cache
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 6\LambdaDemo\LambdaDemo\obj\Debug\net10.0\ref\LambdaDemo.dll

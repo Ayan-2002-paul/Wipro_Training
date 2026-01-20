@@ -1,0 +1,15 @@
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 6\E_Commerce_order\E_Commerce_order\bin\Debug\net10.0\E_Commerce_order.exe
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 6\E_Commerce_order\E_Commerce_order\bin\Debug\net10.0\E_Commerce_order.deps.json
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 6\E_Commerce_order\E_Commerce_order\bin\Debug\net10.0\E_Commerce_order.runtimeconfig.json
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 6\E_Commerce_order\E_Commerce_order\bin\Debug\net10.0\E_Commerce_order.dll
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 6\E_Commerce_order\E_Commerce_order\bin\Debug\net10.0\E_Commerce_order.pdb
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 6\E_Commerce_order\E_Commerce_order\obj\Debug\net10.0\E_Commerce_order.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 6\E_Commerce_order\E_Commerce_order\obj\Debug\net10.0\E_Commerce_order.AssemblyInfoInputs.cache
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 6\E_Commerce_order\E_Commerce_order\obj\Debug\net10.0\E_Commerce_order.AssemblyInfo.cs
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 6\E_Commerce_order\E_Commerce_order\obj\Debug\net10.0\E_Commerce_order.csproj.CoreCompileInputs.cache
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 6\E_Commerce_order\E_Commerce_order\obj\Debug\net10.0\E_Commerce_order.sourcelink.json
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 6\E_Commerce_order\E_Commerce_order\obj\Debug\net10.0\E_Commerce_order.dll
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 6\E_Commerce_order\E_Commerce_order\obj\Debug\net10.0\refint\E_Commerce_order.dll
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 6\E_Commerce_order\E_Commerce_order\obj\Debug\net10.0\E_Commerce_order.pdb
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 6\E_Commerce_order\E_Commerce_order\obj\Debug\net10.0\E_Commerce_order.genruntimeconfig.cache
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 6\E_Commerce_order\E_Commerce_order\obj\Debug\net10.0\ref\E_Commerce_order.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ayan2\\OneDrive\\Documents\\Coding\\Wipro Training\\Day 6\\E_Commerce_order\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5311CEA-1718-49E8-9674-92BF68387164}|E_Commerce_order\\E_Commerce_order.csproj|c:\\users\\ayan2\\onedrive\\documents\\coding\\wipro training\\day 6\\e_commerce_order\\e_commerce_order\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5311CEA-1718-49E8-9674-92BF68387164}|E_Commerce_order\\E_Commerce_order.csproj|solutionrelative:e_commerce_order\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ayan2\\OneDrive\\Documents\\Coding\\Wipro Training\\Day 6\\E_Commerce_order\\E_Commerce_order\\Program.cs",
+              "RelativeDocumentMoniker": "E_Commerce_order\\Program.cs",
+              "ToolTip": "C:\\Users\\ayan2\\OneDrive\\Documents\\Coding\\Wipro Training\\Day 6\\E_Commerce_order\\E_Commerce_order\\Program.cs",
+              "RelativeToolTip": "E_Commerce_order\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T08:31:06.144Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
