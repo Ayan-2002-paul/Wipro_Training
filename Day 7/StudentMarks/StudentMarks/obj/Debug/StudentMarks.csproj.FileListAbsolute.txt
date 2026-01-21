@@ -1,0 +1,7 @@
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 7\StudentMarks\StudentMarks\bin\Debug\StudentMarks.exe.config
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 7\StudentMarks\StudentMarks\bin\Debug\StudentMarks.exe
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 7\StudentMarks\StudentMarks\bin\Debug\StudentMarks.pdb
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 7\StudentMarks\StudentMarks\obj\Debug\StudentMarks.csproj.AssemblyReference.cache
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 7\StudentMarks\StudentMarks\obj\Debug\StudentMarks.csproj.CoreCompileInputs.cache
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 7\StudentMarks\StudentMarks\obj\Debug\StudentMarks.exe
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training\Day 7\StudentMarks\StudentMarks\obj\Debug\StudentMarks.pdb

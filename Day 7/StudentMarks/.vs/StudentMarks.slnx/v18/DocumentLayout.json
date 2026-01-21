@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ayan2\\OneDrive\\Documents\\Coding\\Wipro Training\\Day 7\\StudentMarks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D7E38C-0BB2-415A-A3C6-B9DFD25B4870}|StudentMarks\\StudentMarks.csproj|c:\\users\\ayan2\\onedrive\\documents\\coding\\wipro training\\day 7\\studentmarks\\studentmarks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D7E38C-0BB2-415A-A3C6-B9DFD25B4870}|StudentMarks\\StudentMarks.csproj|solutionrelative:studentmarks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ayan2\\OneDrive\\Documents\\Coding\\Wipro Training\\Day 7\\StudentMarks\\StudentMarks\\Program.cs",
+              "RelativeDocumentMoniker": "StudentMarks\\Program.cs",
+              "ToolTip": "C:\\Users\\ayan2\\OneDrive\\Documents\\Coding\\Wipro Training\\Day 7\\StudentMarks\\StudentMarks\\Program.cs",
+              "RelativeToolTip": "StudentMarks\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T09:50:59.061Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
