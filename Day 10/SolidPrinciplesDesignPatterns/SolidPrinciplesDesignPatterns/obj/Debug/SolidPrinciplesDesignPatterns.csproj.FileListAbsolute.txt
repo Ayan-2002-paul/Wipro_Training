@@ -1,0 +1,7 @@
+C:\Users\ayan2\OneDrive\Documents\Coding\SOLID Principles & Design Patterns\SolidPrinciplesDesignPatterns\SolidPrinciplesDesignPatterns\bin\Debug\SolidPrinciplesDesignPatterns.exe.config
+C:\Users\ayan2\OneDrive\Documents\Coding\SOLID Principles & Design Patterns\SolidPrinciplesDesignPatterns\SolidPrinciplesDesignPatterns\bin\Debug\SolidPrinciplesDesignPatterns.exe
+C:\Users\ayan2\OneDrive\Documents\Coding\SOLID Principles & Design Patterns\SolidPrinciplesDesignPatterns\SolidPrinciplesDesignPatterns\bin\Debug\SolidPrinciplesDesignPatterns.pdb
+C:\Users\ayan2\OneDrive\Documents\Coding\SOLID Principles & Design Patterns\SolidPrinciplesDesignPatterns\SolidPrinciplesDesignPatterns\obj\Debug\SolidPrinciplesDesignPatterns.csproj.AssemblyReference.cache
+C:\Users\ayan2\OneDrive\Documents\Coding\SOLID Principles & Design Patterns\SolidPrinciplesDesignPatterns\SolidPrinciplesDesignPatterns\obj\Debug\SolidPrinciplesDesignPatterns.csproj.CoreCompileInputs.cache
+C:\Users\ayan2\OneDrive\Documents\Coding\SOLID Principles & Design Patterns\SolidPrinciplesDesignPatterns\SolidPrinciplesDesignPatterns\obj\Debug\SolidPrinciplesDesignPatterns.exe
+C:\Users\ayan2\OneDrive\Documents\Coding\SOLID Principles & Design Patterns\SolidPrinciplesDesignPatterns\SolidPrinciplesDesignPatterns\obj\Debug\SolidPrinciplesDesignPatterns.pdb

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ayan2\\OneDrive\\Documents\\Coding\\Practice\\Practice\\DotNet\\SecureUserApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE6FC8E-6CFD-44AC-A3FE-ED098403CBEA}|SecureUserAppTest\\SecureUserAppTest.csproj|c:\\users\\ayan2\\onedrive\\documents\\coding\\practice\\practice\\dotnet\\secureuserapp\\secureuserapptest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE6FC8E-6CFD-44AC-A3FE-ED098403CBEA}|SecureUserAppTest\\SecureUserAppTest.csproj|solutionrelative:secureuserapptest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E17574-7EED-40B5-A46A-6A11ED07F0A9}|SecureUserApp\\SecureUserApp.csproj|c:\\users\\ayan2\\onedrive\\documents\\coding\\practice\\practice\\dotnet\\secureuserapp\\secureuserapp\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53E17574-7EED-40B5-A46A-6A11ED07F0A9}|SecureUserApp\\SecureUserApp.csproj|solutionrelative:secureuserapp\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E17574-7EED-40B5-A46A-6A11ED07F0A9}|SecureUserApp\\SecureUserApp.csproj|c:\\users\\ayan2\\onedrive\\documents\\coding\\practice\\practice\\dotnet\\secureuserapp\\secureuserapp\\loggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53E17574-7EED-40B5-A46A-6A11ED07F0A9}|SecureUserApp\\SecureUserApp.csproj|solutionrelative:secureuserapp\\loggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E17574-7EED-40B5-A46A-6A11ED07F0A9}|SecureUserApp\\SecureUserApp.csproj|c:\\users\\ayan2\\onedrive\\documents\\coding\\practice\\practice\\dotnet\\secureuserapp\\secureuserapp\\securityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53E17574-7EED-40B5-A46A-6A11ED07F0A9}|SecureUserApp\\SecureUserApp.csproj|solutionrelative:secureuserapp\\securityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E17574-7EED-40B5-A46A-6A11ED07F0A9}|SecureUserApp\\SecureUserApp.csproj|c:\\users\\ayan2\\onedrive\\documents\\coding\\practice\\practice\\dotnet\\secureuserapp\\secureuserapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53E17574-7EED-40B5-A46A-6A11ED07F0A9}|SecureUserApp\\SecureUserApp.csproj|solutionrelative:secureuserapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 107,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\ayan2\\OneDrive\\Documents\\Coding\\Practice\\Practice\\DotNet\\SecureUserApp\\SecureUserAppTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "SecureUserAppTest\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\ayan2\\OneDrive\\Documents\\Coding\\Practice\\Practice\\DotNet\\SecureUserApp\\SecureUserAppTest\\UnitTest1.cs",
+              "RelativeToolTip": "SecureUserAppTest\\UnitTest1.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwBsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T07:15:20.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ayan2\\OneDrive\\Documents\\Coding\\Practice\\Practice\\DotNet\\SecureUserApp\\SecureUserApp\\User.cs",
+              "RelativeDocumentMoniker": "SecureUserApp\\User.cs",
+              "ToolTip": "C:\\Users\\ayan2\\OneDrive\\Documents\\Coding\\Practice\\Practice\\DotNet\\SecureUserApp\\SecureUserApp\\User.cs",
+              "RelativeToolTip": "SecureUserApp\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T07:14:05.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoggerService.cs",
+              "DocumentMoniker": "C:\\Users\\ayan2\\OneDrive\\Documents\\Coding\\Practice\\Practice\\DotNet\\SecureUserApp\\SecureUserApp\\LoggerService.cs",
+              "RelativeDocumentMoniker": "SecureUserApp\\LoggerService.cs",
+              "ToolTip": "C:\\Users\\ayan2\\OneDrive\\Documents\\Coding\\Practice\\Practice\\DotNet\\SecureUserApp\\SecureUserApp\\LoggerService.cs",
+              "RelativeToolTip": "SecureUserApp\\LoggerService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T07:12:22.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SecurityService.cs",
+              "DocumentMoniker": "C:\\Users\\ayan2\\OneDrive\\Documents\\Coding\\Practice\\Practice\\DotNet\\SecureUserApp\\SecureUserApp\\SecurityService.cs",
+              "RelativeDocumentMoniker": "SecureUserApp\\SecurityService.cs",
+              "ToolTip": "C:\\Users\\ayan2\\OneDrive\\Documents\\Coding\\Practice\\Practice\\DotNet\\SecureUserApp\\SecureUserApp\\SecurityService.cs",
+              "RelativeToolTip": "SecureUserApp\\SecurityService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T07:10:31.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ayan2\\OneDrive\\Documents\\Coding\\Practice\\Practice\\DotNet\\SecureUserApp\\SecureUserApp\\Program.cs",
+              "RelativeDocumentMoniker": "SecureUserApp\\Program.cs",
+              "ToolTip": "C:\\Users\\ayan2\\OneDrive\\Documents\\Coding\\Practice\\Practice\\DotNet\\SecureUserApp\\SecureUserApp\\Program.cs",
+              "RelativeToolTip": "SecureUserApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T07:10:09.298Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

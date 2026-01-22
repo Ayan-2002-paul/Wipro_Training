@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ayan2\\OneDrive\\Documents\\Coding\\SOLID Principles \u0026 Design Patterns\\SolidPrinciplesDesignPatterns\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE195FCD-EB08-42D6-A969-3E9CBB65599E}|SolidPrinciplesDesignPatternsTest\\SolidPrinciplesDesignPatternsTest.csproj|c:\\users\\ayan2\\onedrive\\documents\\coding\\solid principles \u0026 design patterns\\solidprinciplesdesignpatterns\\solidprinciplesdesignpatternstest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE195FCD-EB08-42D6-A969-3E9CBB65599E}|SolidPrinciplesDesignPatternsTest\\SolidPrinciplesDesignPatternsTest.csproj|solutionrelative:solidprinciplesdesignpatternstest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A32A1E-1CEF-49DC-98F2-D933428E4841}|SolidPrinciplesDesignPatterns\\SolidPrinciplesDesignPatterns.csproj|c:\\users\\ayan2\\onedrive\\documents\\coding\\solid principles \u0026 design patterns\\solidprinciplesdesignpatterns\\solidprinciplesdesignpatterns\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22A32A1E-1CEF-49DC-98F2-D933428E4841}|SolidPrinciplesDesignPatterns\\SolidPrinciplesDesignPatterns.csproj|solutionrelative:solidprinciplesdesignpatterns\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A32A1E-1CEF-49DC-98F2-D933428E4841}|SolidPrinciplesDesignPatterns\\SolidPrinciplesDesignPatterns.csproj|c:\\users\\ayan2\\onedrive\\documents\\coding\\solid principles \u0026 design patterns\\solidprinciplesdesignpatterns\\solidprinciplesdesignpatterns\\documentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22A32A1E-1CEF-49DC-98F2-D933428E4841}|SolidPrinciplesDesignPatterns\\SolidPrinciplesDesignPatterns.csproj|solutionrelative:solidprinciplesdesignpatterns\\documentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A32A1E-1CEF-49DC-98F2-D933428E4841}|SolidPrinciplesDesignPatterns\\SolidPrinciplesDesignPatterns.csproj|c:\\users\\ayan2\\onedrive\\documents\\coding\\solid principles \u0026 design patterns\\solidprinciplesdesignpatterns\\solidprinciplesdesignpatterns\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22A32A1E-1CEF-49DC-98F2-D933428E4841}|SolidPrinciplesDesignPatterns\\SolidPrinciplesDesignPatterns.csproj|solutionrelative:solidprinciplesdesignpatterns\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A32A1E-1CEF-49DC-98F2-D933428E4841}|SolidPrinciplesDesignPatterns\\SolidPrinciplesDesignPatterns.csproj|c:\\users\\ayan2\\onedrive\\documents\\coding\\solid principles \u0026 design patterns\\solidprinciplesdesignpatterns\\solidprinciplesdesignpatterns\\ireportsaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22A32A1E-1CEF-49DC-98F2-D933428E4841}|SolidPrinciplesDesignPatterns\\SolidPrinciplesDesignPatterns.csproj|solutionrelative:solidprinciplesdesignpatterns\\ireportsaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A32A1E-1CEF-49DC-98F2-D933428E4841}|SolidPrinciplesDesignPatterns\\SolidPrinciplesDesignPatterns.csproj|c:\\users\\ayan2\\onedrive\\documents\\coding\\solid principles \u0026 design patterns\\solidprinciplesdesignpatterns\\solidprinciplesdesignpatterns\\ireportformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22A32A1E-1CEF-49DC-98F2-D933428E4841}|SolidPrinciplesDesignPatterns\\SolidPrinciplesDesignPatterns.csproj|solutionrelative:solidprinciplesdesignpatterns\\ireportformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A32A1E-1CEF-49DC-98F2-D933428E4841}|SolidPrinciplesDesignPatterns\\SolidPrinciplesDesignPatterns.csproj|c:\\users\\ayan2\\onedrive\\documents\\coding\\solid principles \u0026 design patterns\\solidprinciplesdesignpatterns\\solidprinciplesdesignpatterns\\reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22A32A1E-1CEF-49DC-98F2-D933428E4841}|SolidPrinciplesDesignPatterns\\SolidPrinciplesDesignPatterns.csproj|solutionrelative:solidprinciplesdesignpatterns\\reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A32A1E-1CEF-49DC-98F2-D933428E4841}|SolidPrinciplesDesignPatterns\\SolidPrinciplesDesignPatterns.csproj|c:\\users\\ayan2\\onedrive\\documents\\coding\\solid principles \u0026 design patterns\\solidprinciplesdesignpatterns\\solidprinciplesdesignpatterns\\ireport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22A32A1E-1CEF-49DC-98F2-D933428E4841}|SolidPrinciplesDesignPatterns\\SolidPrinciplesDesignPatterns.csproj|solutionrelative:solidprinciplesdesignpatterns\\ireport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22A32A1E-1CEF-49DC-98F2-D933428E4841}|SolidPrinciplesDesignPatterns\\SolidPrinciplesDesignPatterns.csproj|c:\\users\\ayan2\\onedrive\\documents\\coding\\solid principles \u0026 design patterns\\solidprinciplesdesignpatterns\\solidprinciplesdesignpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22A32A1E-1CEF-49DC-98F2-D933428E4841}|SolidPrinciplesDesignPatterns\\SolidPrinciplesDesignPatterns.csproj|solutionrelative:solidprinciplesdesignpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\ayan2\\OneDrive\\Documents\\Coding\\SOLID Principles \u0026 Design Patterns\\SolidPrinciplesDesignPatterns\\SolidPrinciplesDesignPatternsTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "SolidPrinciplesDesignPatternsTest\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\ayan2\\OneDrive\\Documents\\Coding\\SOLID Principles \u0026 Design Patterns\\SolidPrinciplesDesignPatterns\\SolidPrinciplesDesignPatternsTest\\UnitTest1.cs",
+              "RelativeToolTip": "SolidPrinciplesDesignPatternsTest\\UnitTest1.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T16:15:44.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\ayan2\\OneDrive\\Documents\\Coding\\SOLID Principles \u0026 Design Patterns\\SolidPrinciplesDesignPatterns\\SolidPrinciplesDesignPatterns\\Logger.cs",
+              "RelativeDocumentMoniker": "SolidPrinciplesDesignPatterns\\Logger.cs",
+              "ToolTip": "C:\\Users\\ayan2\\OneDrive\\Documents\\Coding\\SOLID Principles \u0026 Design Patterns\\SolidPrinciplesDesignPatterns\\SolidPrinciplesDesignPatterns\\Logger.cs",
+              "RelativeToolTip": "SolidPrinciplesDesignPatterns\\Logger.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA2wB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T16:14:46.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "C:\\Users\\ayan2\\OneDrive\\Documents\\Coding\\SOLID Principles \u0026 Design Patterns\\SolidPrinciplesDesignPatterns\\SolidPrinciplesDesignPatterns\\ReportService.cs",
+              "RelativeDocumentMoniker": "SolidPrinciplesDesignPatterns\\ReportService.cs",
+              "ToolTip": "C:\\Users\\ayan2\\OneDrive\\Documents\\Coding\\SOLID Principles \u0026 Design Patterns\\SolidPrinciplesDesignPatterns\\SolidPrinciplesDesignPatterns\\ReportService.cs",
+              "RelativeToolTip": "SolidPrinciplesDesignPatterns\\ReportService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T16:13:29.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IReportSaver.cs",
+              "DocumentMoniker": "C:\\Users\\ayan2\\OneDrive\\Documents\\Coding\\SOLID Principles \u0026 Design Patterns\\SolidPrinciplesDesignPatterns\\SolidPrinciplesDesignPatterns\\IReportSaver.cs",
+              "RelativeDocumentMoniker": "SolidPrinciplesDesignPatterns\\IReportSaver.cs",
+              "ToolTip": "C:\\Users\\ayan2\\OneDrive\\Documents\\Coding\\SOLID Principles \u0026 Design Patterns\\SolidPrinciplesDesignPatterns\\SolidPrinciplesDesignPatterns\\IReportSaver.cs",
+              "RelativeToolTip": "SolidPrinciplesDesignPatterns\\IReportSaver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T16:12:59.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IReportFormatter.cs",
+              "DocumentMoniker": "C:\\Users\\ayan2\\OneDrive\\Documents\\Coding\\SOLID Principles \u0026 Design Patterns\\SolidPrinciplesDesignPatterns\\SolidPrinciplesDesignPatterns\\IReportFormatter.cs",
+              "RelativeDocumentMoniker": "SolidPrinciplesDesignPatterns\\IReportFormatter.cs",
+              "ToolTip": "C:\\Users\\ayan2\\OneDrive\\Documents\\Coding\\SOLID Principles \u0026 Design Patterns\\SolidPrinciplesDesignPatterns\\SolidPrinciplesDesignPatterns\\IReportFormatter.cs",
+              "RelativeToolTip": "SolidPrinciplesDesignPatterns\\IReportFormatter.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T16:12:37.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Reports.cs",
+              "DocumentMoniker": "C:\\Users\\ayan2\\OneDrive\\Documents\\Coding\\SOLID Principles \u0026 Design Patterns\\SolidPrinciplesDesignPatterns\\SolidPrinciplesDesignPatterns\\Reports.cs",
+              "RelativeDocumentMoniker": "SolidPrinciplesDesignPatterns\\Reports.cs",
+              "ToolTip": "C:\\Users\\ayan2\\OneDrive\\Documents\\Coding\\SOLID Principles \u0026 Design Patterns\\SolidPrinciplesDesignPatterns\\SolidPrinciplesDesignPatterns\\Reports.cs",
+              "RelativeToolTip": "SolidPrinciplesDesignPatterns\\Reports.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T16:12:10.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IReport.cs",
+              "DocumentMoniker": "C:\\Users\\ayan2\\OneDrive\\Documents\\Coding\\SOLID Principles \u0026 Design Patterns\\SolidPrinciplesDesignPatterns\\SolidPrinciplesDesignPatterns\\IReport.cs",
+              "RelativeDocumentMoniker": "SolidPrinciplesDesignPatterns\\IReport.cs",
+              "ToolTip": "C:\\Users\\ayan2\\OneDrive\\Documents\\Coding\\SOLID Principles \u0026 Design Patterns\\SolidPrinciplesDesignPatterns\\SolidPrinciplesDesignPatterns\\IReport.cs",
+              "RelativeToolTip": "SolidPrinciplesDesignPatterns\\IReport.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T16:11:36.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DocumentFactory.cs",
+              "DocumentMoniker": "C:\\Users\\ayan2\\OneDrive\\Documents\\Coding\\SOLID Principles \u0026 Design Patterns\\SolidPrinciplesDesignPatterns\\SolidPrinciplesDesignPatterns\\DocumentFactory.cs",
+              "RelativeDocumentMoniker": "SolidPrinciplesDesignPatterns\\DocumentFactory.cs",
+              "ToolTip": "C:\\Users\\ayan2\\OneDrive\\Documents\\Coding\\SOLID Principles \u0026 Design Patterns\\SolidPrinciplesDesignPatterns\\SolidPrinciplesDesignPatterns\\DocumentFactory.cs",
+              "RelativeToolTip": "SolidPrinciplesDesignPatterns\\DocumentFactory.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA/wBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T16:10:59.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ayan2\\OneDrive\\Documents\\Coding\\SOLID Principles \u0026 Design Patterns\\SolidPrinciplesDesignPatterns\\SolidPrinciplesDesignPatterns\\Program.cs",
+              "RelativeDocumentMoniker": "SolidPrinciplesDesignPatterns\\Program.cs",
+              "ToolTip": "C:\\Users\\ayan2\\OneDrive\\Documents\\Coding\\SOLID Principles \u0026 Design Patterns\\SolidPrinciplesDesignPatterns\\SolidPrinciplesDesignPatterns\\Program.cs",
+              "RelativeToolTip": "SolidPrinciplesDesignPatterns\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T15:58:25.606Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

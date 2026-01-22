@@ -1,0 +1,7 @@
+C:\Users\ayan2\OneDrive\Documents\Coding\Practice\Practice\DotNet\SecureUserApp\SecureUserApp\bin\Debug\SecureUserApp.exe.config
+C:\Users\ayan2\OneDrive\Documents\Coding\Practice\Practice\DotNet\SecureUserApp\SecureUserApp\bin\Debug\SecureUserApp.exe
+C:\Users\ayan2\OneDrive\Documents\Coding\Practice\Practice\DotNet\SecureUserApp\SecureUserApp\bin\Debug\SecureUserApp.pdb
+C:\Users\ayan2\OneDrive\Documents\Coding\Practice\Practice\DotNet\SecureUserApp\SecureUserApp\obj\Debug\SecureUserApp.csproj.AssemblyReference.cache
+C:\Users\ayan2\OneDrive\Documents\Coding\Practice\Practice\DotNet\SecureUserApp\SecureUserApp\obj\Debug\SecureUserApp.csproj.CoreCompileInputs.cache
+C:\Users\ayan2\OneDrive\Documents\Coding\Practice\Practice\DotNet\SecureUserApp\SecureUserApp\obj\Debug\SecureUserApp.exe
+C:\Users\ayan2\OneDrive\Documents\Coding\Practice\Practice\DotNet\SecureUserApp\SecureUserApp\obj\Debug\SecureUserApp.pdb
