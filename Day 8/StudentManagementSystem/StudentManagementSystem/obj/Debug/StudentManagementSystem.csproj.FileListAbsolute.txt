@@ -1,0 +1,7 @@
+C:\Users\ayan2\OneDrive\Documents\Coding\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe.config
+C:\Users\ayan2\OneDrive\Documents\Coding\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe
+C:\Users\ayan2\OneDrive\Documents\Coding\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.pdb
+C:\Users\ayan2\OneDrive\Documents\Coding\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.AssemblyReference.cache
+C:\Users\ayan2\OneDrive\Documents\Coding\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\ayan2\OneDrive\Documents\Coding\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.exe
+C:\Users\ayan2\OneDrive\Documents\Coding\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.pdb

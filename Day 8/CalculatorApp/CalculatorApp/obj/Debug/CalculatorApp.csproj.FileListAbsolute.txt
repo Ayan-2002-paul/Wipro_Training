@@ -1,0 +1,7 @@
+C:\Users\ayan2\OneDrive\Documents\Coding\Practice\Practice\DotNet\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+C:\Users\ayan2\OneDrive\Documents\Coding\Practice\Practice\DotNet\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+C:\Users\ayan2\OneDrive\Documents\Coding\Practice\Practice\DotNet\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+C:\Users\ayan2\OneDrive\Documents\Coding\Practice\Practice\DotNet\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.AssemblyReference.cache
+C:\Users\ayan2\OneDrive\Documents\Coding\Practice\Practice\DotNet\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\ayan2\OneDrive\Documents\Coding\Practice\Practice\DotNet\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+C:\Users\ayan2\OneDrive\Documents\Coding\Practice\Practice\DotNet\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
