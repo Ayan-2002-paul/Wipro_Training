@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        fetch('demo.json')
+            .then(response => response.json())
+            .then(data => {
+                console.log(data);// it will be displayed in console rather than webpage
+                //for displaying on webpage
+                data.forEach(student => {
+                    document.body.innerHTML += `<h2>${student.id}. ${student.name} - ${student.course}</h2>`;
+                });
+            })
+            .catch(error => console.error('Error fetching JSON:', error));
+    </script>
+</body>
+</html>

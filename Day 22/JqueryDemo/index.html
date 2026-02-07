@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Date Picker Demo</title>
+    <link rel="stylesheet" href="style.css">
+  <!-- jQuery -->
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+  <!-- jQuery UI -->
+  <link rel="stylesheet" href="https://code.jquery.com/ui/1.13.2/themes/base/jquery-ui.css">
+  <script src="https://code.jquery.com/ui/1.13.2/jquery-ui.min.js"></script>
+
+    <!-- Slick Carousel -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css">
+  <script src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+
+</head>
+<body style="font-family: Arial; padding: 20px;">
+
+  <h3>Please select your preferred date</h3>
+
+  <label>Select Date:</label><br><br>
+  <input type="text" id="datePicker" placeholder="Click to select date">
+<br> <br>
+  <div class="section">
+    <h3>Slider (Price Range)</h3>
+    <div id="priceSlider" class="slider-box"></div>
+    <p>Selected Price: ₹<span id="priceValue">500</span></p>
+  </div>
+
+ <div class="section">
+    <h3>Image Carousel</h3>
+    <div class="carousel">
+      <img src="image1.jpg" alt="Image 1">
+      <img src="image2.jpg" alt="Image 2">
+      <img src="image3.jpg" alt="Image 3">
+    </div>
+  </div>
+
+  <script>
+    $(document).ready(function () {
+      $("#datePicker").datepicker({
+        dateFormat: "dd-mm-yy",
+        minDate: 0,
+        changeMonth: true,
+        changeYear: true
+      });
+    });
+
+    $(document).ready(function () {
+      $("#priceSlider").slider({
+        range: "min",
+        value: 500,
+        min: 0,
+        max: 1000,
+        slide: function (event, ui) {
+          $("#priceValue").text(ui.value);
+        }
+      });
+    });
+
+    $(document).ready(function(){
+      $('.carousel').slick({
+        dots: true,
+        infinite: true,
+        speed: 500,
+        slidesToShow: 1,
+        slidesToScroll: 1,
+        autoplay: true,
+        autoplaySpeed: 2000,
+      });
+    });
+  </script>
+
+</body>
+</html>

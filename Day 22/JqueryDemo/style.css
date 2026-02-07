@@ -1,0 +1,33 @@
+body {
+    background-color: #d75f5f;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+h3 {
+    color: #f7efef;
+}
+
+.section {
+    background: #be4444;
+    border: 1px solid #6e0606;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.carousel img {
+    width: 100%; /* Make images responsive */
+    border-radius: 5px;
+}
+
+.slider-box {
+    margin: 20px 0;
+}
+#datePicker {
+    padding: 10px;
+    border: 1px solid #961818;
+    border-radius: 5px;
+    width: 200px;
+}
