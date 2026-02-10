@@ -1,0 +1,1 @@
+This project is a simple C# Windows Forms application that takes user input from a text box, displays it in a message box, and uses a WebBrowser control to navigate to the entered URL, demonstrating basic UI events and input validation.

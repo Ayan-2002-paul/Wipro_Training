@@ -1,0 +1,10 @@
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training code eval\Day 27\WindowsFormsAppDemo\WindowsFormsAppDemo\bin\Debug\WindowsFormsAppDemo.exe.config
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training code eval\Day 27\WindowsFormsAppDemo\WindowsFormsAppDemo\bin\Debug\WindowsFormsAppDemo.exe
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training code eval\Day 27\WindowsFormsAppDemo\WindowsFormsAppDemo\bin\Debug\WindowsFormsAppDemo.pdb
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training code eval\Day 27\WindowsFormsAppDemo\WindowsFormsAppDemo\obj\Debug\WindowsFormsAppDemo.csproj.AssemblyReference.cache
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training code eval\Day 27\WindowsFormsAppDemo\WindowsFormsAppDemo\obj\Debug\WindowsFormsAppDemo.Form1.resources
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training code eval\Day 27\WindowsFormsAppDemo\WindowsFormsAppDemo\obj\Debug\WindowsFormsAppDemo.Properties.Resources.resources
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training code eval\Day 27\WindowsFormsAppDemo\WindowsFormsAppDemo\obj\Debug\WindowsFormsAppDemo.csproj.GenerateResource.cache
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training code eval\Day 27\WindowsFormsAppDemo\WindowsFormsAppDemo\obj\Debug\WindowsFormsAppDemo.csproj.CoreCompileInputs.cache
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training code eval\Day 27\WindowsFormsAppDemo\WindowsFormsAppDemo\obj\Debug\WindowsFormsAppDemo.exe
+C:\Users\ayan2\OneDrive\Documents\Coding\Wipro Training code eval\Day 27\WindowsFormsAppDemo\WindowsFormsAppDemo\obj\Debug\WindowsFormsAppDemo.pdb
